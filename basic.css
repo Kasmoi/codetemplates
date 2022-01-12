@@ -1,0 +1,27 @@
+body{
+background-color: orange;
+}
+h1{
+font-family: italics;
+color: red;
+}
+p{
+  font-size: 20px;
+  font-family: sans-serif;
+
+}
+.container{
+width: 800px;
+margin: 10px auto 0px auto;
+}
+img{
+  width: 600px;
+  height: 500px;
+}
+a:visited{
+  color: darkblue;
+}
+a:hover,a:active{
+  color: red;
+
+}

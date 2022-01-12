@@ -1,0 +1,29 @@
+.container{
+width: 800px;
+margin: 10px auto 0px auto;
+}
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  color: orange;
+}
+h1{
+  background: gray;
+  padding: 10px;
+}
+.mainimg {
+  width: 100%;
+}
+footer{
+  background-color: cyan;
+}
+nav li{
+display: inline;
+margin-right: 16px;
+}
+nav ul{
+  padding-left: 0px;
+}
+nav a:{
+  color:gray;
+}
